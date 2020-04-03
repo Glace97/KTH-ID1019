@@ -1,6 +1,6 @@
 # Mandelbrot
 
-**TODO: Add description**
+Mandelbrot set visualizer
 
 ## Installation
 
