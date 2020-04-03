@@ -1,6 +1,6 @@
 # Pong
 
-**TODO: Add description**
+Backend of pong game
 
 ## Installation
 

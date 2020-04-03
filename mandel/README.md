@@ -1,6 +1,6 @@
 # Mandel
 
-**TODO: Add description**
+Parallelized version of the mandelbrot set visualizer.
 
 ## Installation
 

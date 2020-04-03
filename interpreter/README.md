@@ -1,6 +1,6 @@
-# MI
+# Interperter
 
-**TODO: Add description**
+Elixir meta-interpreter
 
 ## Installation
 

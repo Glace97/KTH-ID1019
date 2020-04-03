@@ -1,6 +1,6 @@
 # Huffman
 
-**TODO: Add description**
+Huffman encoder and decoder
 
 ## Installation
 

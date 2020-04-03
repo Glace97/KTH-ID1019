@@ -1,6 +1,6 @@
 # Philosophers
 
-**TODO: Add description**
+Dining philosiphers problem using Elixir processes.
 
 ## Installation
 

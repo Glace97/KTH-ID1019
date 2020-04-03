@@ -1,6 +1,6 @@
 # Raytracing
 
-**TODO: Add description**
+Elixir ray-tracing demo(incomplete)
 
 ## Installation
 

@@ -1,6 +1,6 @@
 # Server
 
-**TODO: Add description**
+Basic web server implementation in Elixir
 
 ## Installation
 
